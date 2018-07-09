@@ -1,2 +1,0 @@
-SAMPLE REACT REDUX APPLICATION
-****************************
