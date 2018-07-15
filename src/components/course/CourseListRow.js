@@ -28,8 +28,6 @@ deleteCourse(event) {
     });
 }
 
-
-
 CourseListRow.propTypes = {
     course: PropTypes.object.isRequired
 };
